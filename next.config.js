@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    basePath: "/", //insert repo name after slash
+    basePath: "/Nextjs-page-template", //insert own repo name after slash
     output: "export",  // <=== enables static exports
     reactStrictMode: true,
 };
