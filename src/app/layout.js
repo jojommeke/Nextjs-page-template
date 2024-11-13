@@ -14,7 +14,7 @@ const geistMono = localFont({
 
 export const metadata = {
   title: "Nextjs page template",
-  description: "A Github repo template for nextjs with github pages ",
+  description: "A Github repo template for nextjs with github pages",
   keywords: ["Github", "nextjs", "tailwind", "tailwindcss", "javascript", "react"] /* SEO */
 };
 
